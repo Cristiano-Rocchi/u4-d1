@@ -3,7 +3,7 @@ public class esercizio1 {
         System.out.println(moltiplicazione(2, 3));
         System.out.println(esercizio2("ciao", 2));
 
-        
+
         String[] array = {"elemento1", "elemento2", "elemento3", "elemento4", "elemento5"};
         String[] nuovoArray = esercizio3(array, "nuovoElemento");
         for (String elemento : nuovoArray) {
